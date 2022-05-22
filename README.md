@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ifan Zalukhu</h1>
 <h3 align="center">A passionate mobile & .NET developer</h3>
 
-<a href="https://app.daily.dev/ifanzalukhu97"><img src="https://github.com/ifanzalukhu97/ifanzalukhu97/main/blob/devcard.svg" width="200" alt="Ifan Zalukhu's Dev Card"/></a>
+<a href="https://app.daily.dev/ifanzalukhu97"><img src="https://github.com/ifanzalukhu97/ifanzalukhu97/blob/main/devcard.svg" width="200" alt="Ifan Zalukhu's Dev Card"/></a>
 
 - 🔭 I’m currently working on [SimpliDOTS Sales Automation Platform (SAP)](https://app.simplidots.co.id)
 

@@ -18,6 +18,13 @@
 <a href="https://linkedin.com/in/ifanjszalukhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ifanjszalukhu" height="30" width="40" /></a>
 <a href="https://dev.to/ifanzalukhu97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ifanzalukhu97" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ifanzalukhu97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ifanzalukhu97" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Badges & Learning Progress:</h3>
+<p align="left">
+<a href="https://www.dicoding.com/users/ifanzalukhu97/academies" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/22091590" alt="Ifanzalukhu97" height="40" width="40" /></a>
+<a href="https://sekolahkoding.com/user/IfanZalukhu" target="blank"><img align="center" src="https://sekolahkoding.com/img/logo.png" alt="Ifanzalukhu97" height="40" width="40" /></a>
+<a href="https://learn.microsoft.com/en-us/users/ifanzalukhu97" target="blank"><img align="center" src="https://programadoresbrasil.com.br/wp-content/uploads/2020/02/600_457800293.png" alt="Ifanzalukhu97" height="30" width="60" /></a>
 <a href="https://g.dev/Ifanzalukhu97" target="blank"><img align="center" src="https://seeklogo.com/images/G/google-developers-logo-3FB15D7DCE-seeklogo.com.png" alt="Ifanzalukhu97" height="30" width="40" /></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/ed12b36a-c4cb-466b-bfb8-83f5fd0b74d1" target="blank"><img align="center" src="https://gg4l.com/wp-content/uploads/images/catalog/Qwiklabs.png" alt="Ifanzalukhu97" height="40" width="40" /></a>
 </p>

@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ivan.zalukhu97@gmail.com**
 
-- ⚡ About Me **I Interest to learn or improve knowledge in Mobile & Web Development**
+- ⚡ About Me **Passionate about continuous learning and improving knowledge in mobile and web development, as well as actively participating in local community initiatives.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

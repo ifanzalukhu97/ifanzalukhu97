@@ -2,9 +2,7 @@
 <h3 align="center">A passionate mobile & .NET developer</h3>
 
 <div align="center">
-    <a href="https://app.daily.dev/ifanzalukhu97"><img
-            src="https://api.daily.dev/devcards/v2/NfqzIu4ln.png?r=wip&type=wide" width="652"
-            alt="Ifan Jaya Suswanto Zalukhu's Dev Card" /></a>
+    <a href="https://app.daily.dev/ifanzalukhu97"><img src="https://api.daily.dev/devcards/v2/NfqzIu4ln.png?type=wide&r=df8" width="652" alt="Ifan Jaya Suswanto Zalukhu's Dev Card"/></a>
 </div>
 
 - 🔭 I’m currently working on [SimpliDOTS Sales Automation Platform (SAP)](https://app.simplidots.co.id)

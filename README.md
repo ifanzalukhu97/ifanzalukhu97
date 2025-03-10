@@ -1,18 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ifan Zalukhu</h1>
-<h3 align="center">A passionate mobile & .NET developer</h3>
 
 <div align="center">
-    <a href="https://app.daily.dev/ifanzalukhu97"><img src="https://api.daily.dev/devcards/v2/NfqzIu4ln.png?type=wide&r=df8" width="652" alt="Ifan Jaya Suswanto Zalukhu's Dev Card"/></a>
+  <img src="images/GDG-Sharing.JPG" alt="GDG DevFest Medan 2024" />
+  <img src="images/GDG-Sharing-2.jpg" alt="GDG DevFest Medan 2024"/>
 </div>
 
-- 🔭 I’m currently working on [SimpliDOTS Sales Automation Platform (SAP)](https://app.simplidots.co.id)
+### 🚀 About Me
 
-- 🌱 I’m currently learning **.NET Core and Microservices**
+- 🔭 I'm currently working at [SimpliDOTS](https://simplidots.com/)
+- 🌱 Currently exploring **.NET Core, Microservices, and Artificial
+  Intelligence**
+- 🤖 Passionate about AI and its real-world applications
+- 💡 Love to share knowledge and participate in tech communities
+- 📫 Reach me at **ivan.zalukhu97@gmail.com**
 
-- 📫 How to reach me **ivan.zalukhu97@gmail.com**
+### 🤖 My AI Journey
 
-- ⚡ About Me **Passionate about continuous learning and improving knowledge in mobile and web development, as well as
-actively participating in local community initiatives.**
+I'm actively exploring the exciting world of Artificial Intelligence! My journey
+includes:
+
+- Learning various AI frameworks and tools
+- Implementing AI solutions in real-world applications
+- Participating in AI communities and knowledge sharing
+- Building projects that leverage AI capabilities
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,9 +35,13 @@ actively participating in local community initiatives.**
     <a href="https://www.hackerrank.com/ifanzalukhu97" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="ifanzalukhu97" height="30" width="40" /></a>
+    <a href="https://medium.com/@ifanzalukhu97" target="blank"><img align="center"
+            src="https://www.svgrepo.com/show/354057/medium-icon.svg"
+            alt="@ifanzalukhu97" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Badges & Learning Progress:</h3>
+### 🏆 Badges & Learning Progress
+
 <p align="left">
     <a href="https://www.dicoding.com/users/ifanzalukhu97/academies" target="blank"><img align="center"
             src="https://avatars.githubusercontent.com/u/22091590" alt="Ifanzalukhu97" height="40" width="40" /></a>
@@ -44,7 +58,8 @@ actively participating in local community initiatives.**
             alt="Ifanzalukhu97" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 💻 Tech Stack
+
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="android" width="40" height="40" /> </a> <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -87,3 +102,7 @@ actively participating in local community initiatives.**
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ifanzalukhu97&show_icons=true&locale=en&layout=compact"
         alt="ifanzalukhu97" /></p>
+
+<div align="center">
+    <a href="https://app.daily.dev/ifanzalukhu97"><img src="https://api.daily.dev/devcards/v2/NfqzIu4ln.png?type=wide&r=df8" width="652" alt="Ifan Jaya Suswanto Zalukhu's Dev Card"/></a>
+</div>

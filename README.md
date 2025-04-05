@@ -24,9 +24,9 @@ I'm actively exploring the exciting world of Artificial Intelligence! My journey
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/ifanjszalukhu" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/ifanzalukhu97" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="ifanjszalukhu" height="30" width="40" /></a>
+            alt="ifanzalukhu97" height="30" width="40" /></a>
     <a href="https://dev.to/ifanzalukhu97" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
             alt="ifanzalukhu97" height="30" width="40" /></a>

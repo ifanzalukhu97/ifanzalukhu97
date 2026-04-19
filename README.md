@@ -1,131 +1,100 @@
-<h1 align="center">Hi 👋, I'm Ifan Zalukhu</h1>
+<h1 align="center">Hi 👋, I'm Ifan Jaya Suswanto Zalukhu</h1>
+<h3 align="center">Senior C# .NET Backend Engineer | Microservices | AWS Community Builder | AI & Workflow Automation Enthusiast</h3>
 
-<div align="center">
-  <img src="images/GDG-Sharing.JPG" alt="GDG DevFest Medan 2024" />
-  <img src="images/GDG-Sharing-2.jpg" alt="GDG DevFest Medan 2024"/>
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="images/GDG-Sharing.JPG" alt="GDG DevFest Medan 2024" width="100%" /></td>
+    <td align="center" width="50%"><img src="images/GDG-Sharing-2.jpg" alt="GDG DevFest Medan 2024" width="100%" /></td>
+  </tr>
+    <tr>
+    <td align="center" width="50%"><img src="https://raw.githubusercontent.com/ifanzalukhu97/workshop-bwai-medan-2025/main/Docs/DSCF0326.jpg" alt="Build with AI Medan 2025" width="100%" /></td>
+    <td align="center" width="50%"><img src="https://raw.githubusercontent.com/ifanzalukhu97/workshop-bwai-medan-2025/main/Docs/DSCF0263.jpg" alt="Build with AI Medan 2025" width="100%" /></td>
+  </tr>
+    <tr>
+    <td align="center" width="50%"><img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp2ydndjyd2u6v243jm1j.jpg" alt="AWS Cost Mysteries – Real Spikes, True Stories, Real Savings" width="100%" /></td>
+    <td align="center" width="50%"><img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtbwtqkcbki2xrbrsphe.jpg" alt="AWS Cost Mysteries – Real Spikes, True Stories, Real Savings" width="100%" /></td>
+  </tr>
+</table>
+
+
+---
 
 ### 🚀 About Me
 
-- 🔭 Currently working at [SimpliDOTS](https://simplidots.com/)
-- 🌱 Exploring **.NET Core, Microservices, and Artificial Intelligence**
-- 🤖 Passionate about AI and its real-world applications
-- 💡 Love sharing knowledge and participating in tech communities
+I build scalable backend systems and help teams move faster with better engineering practices.
+
+With **6+ years of experience in C# and .NET Core (3–9)**, I specialize in designing microservices architectures, building high-performance APIs, and integrating complex systems across multiple partners — especially in SaaS and supply chain environments.
+
+My work goes beyond writing code. I focus on building systems that are **reliable, maintainable, and ready to scale** — while enabling teams to deliver faster through better workflows, CI/CD, and automation.
+
+- 🔭 Currently **Head of Engineering** at [SimpliDOTS](https://simplidots.com/) — leading engineering strategy & hands-on backend development
+- ⚙️ Core stack: **C# / .NET Core, ASP.NET Core Web API, Microservices, SQL Server, Docker, AWS, Azure**
+- 🤖 Actively exploring **AI/LLM & workflow automation (n8n)** to reduce repetitive engineering work and improve real productivity
+- 🌏 **~6 years fully remote** — strong async collaboration in distributed teams
 - 📫 Reach me at **ivan.zalukhu97@gmail.com**
 
-### 🤖 My AI Journey
+---
 
-I'm actively exploring the exciting world of Artificial Intelligence! My journey includes:
+### 🤖 AI & Automation
 
-- Learning various AI frameworks and tools
-- Implementing AI solutions in real-world applications
-- Participating in AI communities and knowledge sharing
-- Building projects that leverage AI capabilities
+I'm particularly enthusiastic about how AI can be applied practically inside development teams — not just as hype, but as real impact.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/ifanzalukhu97" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="ifanzalukhu97" height="30" width="40" /></a>
-    <a href="https://dev.to/ifanzalukhu97" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-            alt="ifanzalukhu97" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/ifanzalukhu97" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="ifanzalukhu97" height="30" width="40" /></a>
-    <a href="https://medium.com/@ifanzalukhu97" target="blank"><img align="center"
-            src="https://www.svgrepo.com/show/354057/medium-icon.svg"
-            alt="@ifanzalukhu97" height="30" width="40" /></a>
-</p>
+- 🏅 **AWS Community Builder** for AI Engineering (Mar 2025 – Present)
+- 🔧 Building workflow automations with **n8n** to streamline engineering processes
+- 🧠 Exploring **LLM/GPT integration** for developer productivity and AI-assisted workflows
+- 🎓 Certified: **Azure AI Engineer Associate**, **Azure AI Fundamentals**, **Foundation of Generative AI**
+
+---
+
+### 🎤 Community & Speaking
+
+- 🟠 **AWS Community Builder** for AI Engineering — sharing knowledge through talks, articles, and mentorship
+- 🤝 **Co-Organizer, AWS User Group Medan** — coordinating meetups, workshops, and knowledge-sharing sessions
+- 🎙️ Regular speaker at **Google Developer Group Medan**, university events, and local tech meetups
+
+---
+
+### 🔗 Connect with me
+
+| Platform | Link |
+|---|---|
+| LinkedIn | [ifanzalukhu97](https://linkedin.com/in/ifanzalukhu97) |
+| Dev.to | [ifanzalukhu97](https://dev.to/ifanzalukhu97) |
+| Medium | [@ifanzalukhu97](https://medium.com/@ifanzalukhu97) |
+| HackerRank | [ifanzalukhu97](https://www.hackerrank.com/ifanzalukhu97) |
+
+---
 
 ### 🏆 Badges & Learning Progress
 
-<p align="left">
-    <a href="https://www.dicoding.com/users/ifanzalukhu97/academies" target="blank"><img align="center"
-            src="https://avatars.githubusercontent.com/u/22091590" alt="Ifanzalukhu97" height="40" width="40" /></a>
-    <a href="https://sekolahkoding.com/user/IfanZalukhu" target="blank"><img align="center"
-            src="https://ik.imagekit.io/skodev/koala_typing_OR5Fy9uMg.png" alt="Ifanzalukhu97" height="40" width="40" /></a>
-    <a href="https://learn.microsoft.com/en-us/users/ifanzalukhu97" target="blank"><img align="center"
-            src="https://learn.microsoft.com/id-id/windows/images/learn-icon.png" alt="Ifanzalukhu97"
-            height="30" width="60" /></a>
-    <a href="https://g.dev/Ifanzalukhu97" target="blank"><img align="center"
-            src="https://seeklogo.com/images/G/google-developers-logo-3FB15D7DCE-seeklogo.com.png" alt="Ifanzalukhu97"
-            height="30" width="40" /></a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/ed12b36a-c4cb-466b-bfb8-83f5fd0b74d1"
-        target="blank"><img align="center" src="https://gg4l.com/wp-content/uploads/images/catalog/Qwiklabs.png"
-            alt="Ifanzalukhu97" height="40" width="40" /></a>
-</p>
+| Platform | Link |
+|---|---|
+| Microsoft Learn | [ifanzalukhu97](https://learn.microsoft.com/en-us/users/ifanzalukhu97) |
+| Google Developers | [Ifanzalukhu97](https://g.dev/Ifanzalukhu97) |
+| Cloud Skills Boost | [Profile](https://www.cloudskillsboost.google/public_profiles/ed12b36a-c4cb-466b-bfb8-83f5fd0b74d1) |
+| Dicoding | [ifanzalukhu97](https://www.dicoding.com/users/ifanzalukhu97/academies) |
+
+---
 
 ### 💻 Tech Stack
 
-<p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" />
-    </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-            alt="dotnet" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" />
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-    </a>
-    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" />
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-            alt="redis" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"
-            alt="xamarin" width="40" height="40" />
-    </a>
-</p>
+| Category | Technologies |
+|---|---|
+| **Backend / .NET** | C# (.NET Core 3.1–9, .NET Framework 4.6), ASP.NET Core Web API, MVC, Entity Framework 6 & Core, LINQ, REST API |
+| **Database** | MS SQL Server, Azure SQL Server, T-SQL, Stored Procedures, Query Optimization |
+| **Cloud — AWS** | ECS, Lambda, SQS, CloudWatch, S3 |
+| **Cloud — Azure** | App Service, WebJobs, Blob Storage, Azure SQL, Azure DevOps (CI/CD) |
+| **Infrastructure / DevOps** | Docker, Azure DevOps CI/CD Pipelines, Containerized Deployments |
+| **Messaging / Integration** | RabbitMQ, Amazon SQS, REST API Integration with External Systems |
+| **Testing** | xUnit (C# Integration/E2E), Cypress (Frontend E2E) |
+| **AI & Automation** | LLM/GPT Tools, GitHub Copilot, n8n Workflow Automation |
+| **Other** | Microservices Architecture, System Design, Complex Business Logic, Engineering Leadership |
 
-<div align="center">
-  <p><img align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=ifanzalukhu97&show_icons=true&locale=en&layout=compact"
-  alt="ifanzalukhu97" width="652" /></p>
-</div>
+---
 
-<div align="center">
-    <a href="https://app.daily.dev/ifanzalukhu97"><img src="https://api.daily.dev/devcards/v2/NfqzIu4ln.png?type=wide&r=df8" width="652" alt="Ifan Jaya Suswanto Zalukhu's Dev Card"/></a>
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifanzalukhu97&show_icons=true&locale=en&layout=compact" alt="ifanzalukhu97" width="100%" /></td>
+    <td align="center" width="50%"><a href="https://app.daily.dev/ifanzalukhu97"><img src="https://api.daily.dev/devcards/v2/NfqzIu4ln.png?type=wide&r=df8" width="100%" alt="Ifan Jaya Suswanto Zalukhu's Dev Card"/></a></td>
+  </tr>
+</table>

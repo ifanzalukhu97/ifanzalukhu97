@@ -1,52 +1,47 @@
 <h1 align="center">Hi 👋, I'm Ifan Jaya Suswanto Zalukhu</h1>
-<h3 align="center">Senior C# .NET Backend Engineer | Microservices | AWS Community Builder | AI & Workflow Automation Enthusiast</h3>
+<h3 align="center">Head of Engineering @ SimpliDOTS · Senior C# .NET Backend Engineer · AWS Community Builder (AI Engineering)</h3>
+<p align="center">I design and ship scalable backend systems — and lead the teams that keep them running.</p>
 
 <table>
   <tr>
     <td align="center" width="50%"><img src="images/GDG-Sharing.JPG" alt="GDG DevFest Medan 2024" width="100%" /></td>
     <td align="center" width="50%"><img src="images/GDG-Sharing-2.jpg" alt="GDG DevFest Medan 2024" width="100%" /></td>
   </tr>
-    <tr>
+  <tr>
     <td align="center" width="50%"><img src="https://raw.githubusercontent.com/ifanzalukhu97/workshop-bwai-medan-2025/main/Docs/DSCF0326.jpg" alt="Build with AI Medan 2025" width="100%" /></td>
     <td align="center" width="50%"><img src="https://raw.githubusercontent.com/ifanzalukhu97/workshop-bwai-medan-2025/main/Docs/DSCF0263.jpg" alt="Build with AI Medan 2025" width="100%" /></td>
   </tr>
-    <tr>
-    <td align="center" width="50%"><img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp2ydndjyd2u6v243jm1j.jpg" alt="AWS Cost Mysteries – Real Spikes, True Stories, Real Savings" width="100%" /></td>
-    <td align="center" width="50%"><img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtbwtqkcbki2xrbrsphe.jpg" alt="AWS Cost Mysteries – Real Spikes, True Stories, Real Savings" width="100%" /></td>
-  </tr>
 </table>
-
 
 ---
 
-### 🚀 About Me
+### 🚀 About
 
-I build scalable backend systems and help teams move faster with better engineering practices.
+A hands-on builder who happens to lead engineering teams.
 
-With **6+ years of experience in C# and .NET Core (3–9)**, I specialize in designing microservices architectures, building high-performance APIs, and integrating complex systems across multiple partners — especially in SaaS and supply chain environments.
+With 6+ years in C# and .NET, I design and ship scalable backend systems — from high-performance APIs to complex microservices architectures across SaaS and supply chain domains. As **Head of Engineering** at [SimpliDOTS](https://simplidots.com/), I balance engineering strategy with staying deep in the code.
 
-My work goes beyond writing code. I focus on building systems that are **reliable, maintainable, and ready to scale** — while enabling teams to deliver faster through better workflows, CI/CD, and automation.
+I've been fully remote for roughly six years, thriving in async-first distributed teams. Lately I'm focused on applying AI and workflow automation to eliminate repetitive engineering work — so teams spend their attention on problems that actually need judgement.
 
-- 🔭 Currently **Head of Engineering** at [SimpliDOTS](https://simplidots.com/) — leading engineering strategy & hands-on backend development
+- 🔭 **Head of Engineering** at [SimpliDOTS](https://simplidots.com/)
 - ⚙️ Core stack: **C# / .NET Core, ASP.NET Core Web API, Microservices, SQL Server, Docker, AWS, Azure**
-- 🤖 Actively exploring **AI/LLM & workflow automation (n8n)** to reduce repetitive engineering work and improve real productivity
-- 🌏 **~6 years fully remote** — strong async collaboration in distributed teams
+- 🌏 ~6 years fully remote — strong async collaboration in distributed teams
 - 📫 Reach me at **ivan.zalukhu97@gmail.com**
 
 ---
 
-### 🤖 AI & Automation
+### 🛠️ What I Do
 
-I'm particularly enthusiastic about how AI can be applied practically inside development teams — not just as hype, but as real impact.
-
-- 🏅 **AWS Community Builder** for AI Engineering (Mar 2025 – Present)
-- 🔧 Building workflow automations with **n8n** to streamline engineering processes
-- 🧠 Exploring **LLM/GPT integration** for developer productivity and AI-assisted workflows
-- 🎓 Certified: **Azure AI Engineer Associate**, **Azure AI Fundamentals**, **Foundation of Generative AI**
+| Area | Focus |
+|---|---|
+| **Backend Systems** | Scalable microservices, high-performance APIs, and complex integrations with .NET Core — built for reliability and maintainability, not for the demo. |
+| **AI & Automation** | LLM integration, n8n workflow automation, and AI-assisted developer tooling that removes repetitive work from the delivery path. |
+| **Cloud Architecture** | AWS and Azure workloads, containerized deployments, and event-driven infrastructure sized to real traffic and real budgets. |
+| **Engineering Leadership** | Team scaling, CI/CD culture, and remote-first process design. Leading by building alongside the team rather than directing from outside it. |
 
 ---
 
-### 🎤 Community & Speaking
+### 🎤 Speaking & Community
 
 - 🟠 **AWS Community Builder** for AI Engineering — sharing knowledge through talks, articles, and mentorship
 - 🤝 **Co-Organizer, AWS User Group Medan** — coordinating meetups, workshops, and knowledge-sharing sessions
@@ -54,25 +49,11 @@ I'm particularly enthusiastic about how AI can be applied practically inside dev
 
 ---
 
-### 🔗 Connect with me
+### ✍️ Writing
 
-| Platform | Link |
-|---|---|
-| LinkedIn | [ifanzalukhu97](https://linkedin.com/in/ifanzalukhu97) |
-| Dev.to | [ifanzalukhu97](https://dev.to/ifanzalukhu97) |
-| Medium | [@ifanzalukhu97](https://medium.com/@ifanzalukhu97) |
-| HackerRank | [ifanzalukhu97](https://www.hackerrank.com/ifanzalukhu97) |
-
----
-
-### 🏆 Badges & Learning Progress
-
-| Platform | Link |
-|---|---|
-| Microsoft Learn | [ifanzalukhu97](https://learn.microsoft.com/en-us/users/ifanzalukhu97) |
-| Google Developers | [Ifanzalukhu97](https://g.dev/Ifanzalukhu97) |
-| Cloud Skills Boost | [Profile](https://www.cloudskillsboost.google/public_profiles/ed12b36a-c4cb-466b-bfb8-83f5fd0b74d1) |
-| Dicoding | [ifanzalukhu97](https://www.dicoding.com/users/ifanzalukhu97/academies) |
+- [Dev.to](https://dev.to/ifanzalukhu97) — technical posts on .NET, AI, and cloud
+- [Medium](https://medium.com/@ifanzalukhu97) — additional technical writing
+- [AWS Builder Center](https://builder.aws.com/community/@ifanzalukhu97?tab=articles) — AWS articles
 
 ---
 
@@ -80,21 +61,51 @@ I'm particularly enthusiastic about how AI can be applied practically inside dev
 
 | Category | Technologies |
 |---|---|
-| **Backend / .NET** | C# (.NET Core 3.1–9, .NET Framework 4.6), ASP.NET Core Web API, MVC, Entity Framework 6 & Core, LINQ, REST API |
-| **Database** | MS SQL Server, Azure SQL Server, T-SQL, Stored Procedures, Query Optimization |
+| **Backend / .NET** | C# (.NET Core 3.1–9, .NET Framework 4.6), ASP.NET Core, Web API, MVC, Entity Framework Core, LINQ, REST API |
+| **Database** | MS SQL Server, Azure SQL, T-SQL, Stored Procedures, Query Optimization |
 | **Cloud — AWS** | ECS, Lambda, SQS, CloudWatch, S3 |
-| **Cloud — Azure** | App Service, WebJobs, Blob Storage, Azure SQL, Azure DevOps (CI/CD) |
-| **Infrastructure / DevOps** | Docker, Azure DevOps CI/CD Pipelines, Containerized Deployments |
-| **Messaging / Integration** | RabbitMQ, Amazon SQS, REST API Integration with External Systems |
-| **Testing** | xUnit (C# Integration/E2E), Cypress (Frontend E2E) |
-| **AI & Automation** | LLM/GPT Tools, GitHub Copilot, n8n Workflow Automation |
-| **Other** | Microservices Architecture, System Design, Complex Business Logic, Engineering Leadership |
+| **Cloud — Azure** | App Service, WebJobs, Blob Storage, Azure DevOps, CI/CD |
+| **DevOps & Infrastructure** | Docker, CI/CD Pipelines, Containerized Deployments |
+| **Messaging & Integration** | RabbitMQ, Amazon SQS, REST API Integration |
+| **Testing** | xUnit, Integration Tests, Cypress (E2E) |
+| **AI & Automation** | LLM / GPT, GitHub Copilot, n8n Workflows, Kiro |
 
 ---
 
-<table>
-  <tr>
-    <td align="center" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifanzalukhu97&show_icons=true&locale=en&layout=compact" alt="ifanzalukhu97" width="100%" /></td>
-    <td align="center" width="50%"><a href="https://app.daily.dev/ifanzalukhu97"><img src="https://api.daily.dev/devcards/v2/NfqzIu4ln.png?type=wide&r=df8" width="100%" alt="Ifan Jaya Suswanto Zalukhu's Dev Card"/></a></td>
-  </tr>
-</table>
+### 🏆 Certifications & Badges
+
+- **Azure AI Engineer Associate** — Microsoft Certified
+- **Azure AI Fundamentals** — Microsoft Certified
+- **Foundation of Generative AI** — Professional Certification
+- **AWS SimuLearn — AI Practitioner** — AWS Training and Certification
+- **AWS Community Builder** — AI Engineering cohort, Active
+
+| Platform | Highlight |
+|---|---|
+| [Google Cloud Skills Boost](https://www.skills.google/public_profiles/ed12b36a-c4cb-466b-bfb8-83f5fd0b74d1) | Diamond League · 47 badges |
+| [Microsoft Learn](https://learn.microsoft.com/en-us/users/ifanzalukhu97) | Level 12 · 184 badges · 33 trophies |
+| [Credly](https://www.credly.com/users/ifanzalukhu97) | 24 verified badges (Google Cloud & AWS) |
+| [AWS Skill Builder](https://skillsprofile.skillbuilder.aws/user/ifanzalukhu97/certification-badges) | Certification badges |
+
+---
+
+### 🔗 Connect
+
+| Platform | Link |
+|---|---|
+| Website | [ifanzalukhu97.com](https://www.ifanzalukhu97.com) |
+| LinkedIn | [ifanzalukhu97](https://linkedin.com/in/ifanzalukhu97) |
+| GitHub | [ifanzalukhu97](https://github.com/ifanzalukhu97) |
+| Dev.to | [ifanzalukhu97](https://dev.to/ifanzalukhu97) |
+| Medium | [@ifanzalukhu97](https://medium.com/@ifanzalukhu97) |
+| AWS Builder Center | [@ifanzalukhu97](https://builder.aws.com/community/@ifanzalukhu97) |
+| Credly | [ifanzalukhu97](https://www.credly.com/users/ifanzalukhu97) |
+| HackerRank | [ifanzalukhu97](https://www.hackerrank.com/ifanzalukhu97) |
+| Google Developer | [Ifanzalukhu97](https://g.dev/Ifanzalukhu97) |
+| daily.dev | [ifanzalukhu97](https://daily.dev/ifanzalukhu97) |
+| Dicoding | [ifanzalukhu97](https://www.dicoding.com/users/ifanzalukhu97/academies) |
+
+<p align="center">
+  <a href="https://app.daily.dev/ifanzalukhu97"><img src="https://api.daily.dev/devcards/v2/NfqzIu4ln.png?type=wide&r=df8" width="60%" alt="Ifan Jaya Suswanto Zalukhu's Dev Card"/></a>
+</p>
+

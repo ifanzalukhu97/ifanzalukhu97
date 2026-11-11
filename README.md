@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ifan Jaya Suswanto Zalukhu</h1>
-<h3 align="center">Head of Engineering @ SimpliDOTS · Senior C# .NET Backend Engineer · AWS Community Builder (AI Engineering)</h3>
+<h3 align="center">Principal Engineer @ SimpliDOTS · Senior C# .NET Backend Engineer · AWS Community Builder (AI Engineering)</h3>
 <p align="center">I design and ship scalable backend systems — and lead the teams that keep them running.</p>
 
 <table>
@@ -19,11 +19,11 @@
 
 A hands-on builder who happens to lead engineering teams.
 
-With 6+ years in C# and .NET, I design and ship scalable backend systems — from high-performance APIs to complex microservices architectures across SaaS and supply chain domains. As **Head of Engineering** at [SimpliDOTS](https://simplidots.com/), I balance engineering strategy with staying deep in the code.
+With 6+ years in C# and .NET, I design and ship scalable backend systems — from high-performance APIs to complex microservices architectures across SaaS and supply chain domains. As **Principal Engineer** at [SimpliDOTS](https://simplidots.com/), I balance engineering strategy with staying deep in the code.
 
 I've been fully remote for roughly six years, thriving in async-first distributed teams. Lately I'm focused on applying AI and workflow automation to eliminate repetitive engineering work — so teams spend their attention on problems that actually need judgement.
 
-- 🔭 **Head of Engineering** at [SimpliDOTS](https://simplidots.com/)
+- 🔭 **Principal Engineer** at [SimpliDOTS](https://simplidots.com/)
 - ⚙️ Core stack: **C# / .NET Core, ASP.NET Core Web API, Microservices, SQL Server, Docker, AWS, Azure**
 - 🌏 ~6 years fully remote — strong async collaboration in distributed teams
 - 📫 Reach me at **ivan.zalukhu97@gmail.com**
@@ -44,8 +44,7 @@ I've been fully remote for roughly six years, thriving in async-first distribute
 ### 🎤 Speaking & Community
 
 - 🟠 **AWS Community Builder** for AI Engineering — sharing knowledge through talks, articles, and mentorship
-- 🤝 **Co-Organizer, AWS User Group Medan** — coordinating meetups, workshops, and knowledge-sharing sessions
-- 🎙️ Regular speaker at **Google Developer Group Medan**, university events, and local tech meetups
+- 🤝 **Co-Organizer, AWS User Group Medan** and **Core Team, Google Developer Group (GDG) Medan** — coordinating meetups, workshops, and knowledge-sharing sessions
 
 ---
 
